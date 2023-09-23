@@ -1,1 +1,1 @@
-Módulo: "Primeiras páginas interativas em Javascript"
+Módulo: "Primeiras páginas interativas em HTML/CSS/Javascript"
